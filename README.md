@@ -8,16 +8,12 @@ Machine learning has numerous practical applications that can enhance your proje
 ### TensorFlow
 TensorFlow is an open-source framework that simplifies the process of machine learning and neural networking. The course created by **Tim Ruscica** (also known as “Tech With Tim”) covers the powerful capabilities of TensorFlow. 
 
-#### Course Highlights
-- **Challenges Completed**: 32 out of 32
 - Comprehensive introduction to TensorFlow
 - Hands-on experience building neural networks
 
 ### How Neural Networks Work
 Neural networks are at the core of modern artificial intelligence. This course, led by **Brandon Rohrer**, demystifies neural networks, making them accessible to beginners. 
 
-#### Course Highlights
-- **Challenges Completed**: 4 out of 4
 - Deep dive into:
   - How Deep Neural Networks Work
   - Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
@@ -28,19 +24,19 @@ Neural networks are at the core of modern artificial intelligence. This course, 
 The certification includes several hands-on projects designed to solidify your understanding of machine learning concepts. By completing these projects, you demonstrate foundational knowledge in machine learning, qualifying for the **Machine Learning with Python certification**.
 
 ### Projects List
-1. **[Rock Paper Scissors](./Rock_Paper_Scissors)** ✊✋✌️
+1. **[Rock Paper Scissors](https://github.com/mayankyadav23/Machine-Learning-with-Python/tree/main/Rock%20Paper%20Scissors)** ✊✋✌️
    - **Description**: Build a model to play the game Rock Paper Scissors against users. Implement a strategy that allows the model to learn from previous moves.
 
-2. **[Cat and Dog Image Classifier](./Cat_and_Dog_Image_Classifier)** 🐱🐶
+2. **[Cat and Dog Image Classifier](https://github.com/mayankyadav23/Machine-Learning-with-Python/tree/main/Cat%20and%20Dog%20Image%20Classifier)** 🐱🐶
    - **Description**: Create a classifier that distinguishes between images of cats and dogs using convolutional neural networks. Train the model on a dataset of labeled images.
 
-3. **[Book Recommendation Engine using KNN](./Book_Recommendation_Engine)** 📚
+3. **[Book Recommendation Engine using KNN](https://github.com/mayankyadav23/Machine-Learning-with-Python/tree/main/Book%20Recommendation%20Engine%20using%20KNN)** 📚
    - **Description**: Develop a K-Nearest Neighbors algorithm to recommend books based on user preferences and ratings from the Book-Crossings dataset.
 
-4. **[Linear Regression Health Costs Calculator](./Linear_Regression_Health_Costs_Calculator)** 💰
+4. **[Linear Regression Health Costs Calculator](https://github.com/mayankyadav23/Machine-Learning-with-Python/tree/main/Linear%20Regression%20Health%20Costs%20Calculator)** 💰
    - **Description**: Predict healthcare costs using linear regression on provided datasets. Analyze factors affecting health costs and implement a model to forecast expenses based on user data.
 
-5. **[Neural Network SMS Text Classifier](./Neural_Network_SMS_Text_Classifier)** 📱
+5. **[Neural Network SMS Text Classifier](https://github.com/mayankyadav23/Machine-Learning-with-Python/tree/main/Neural%20Network%20SMS%20Text%20Classifier)** 📱
    - **Description**: Classify SMS messages as either "ham" or "spam" using a neural network. Train the model on the SMS Spam Collection dataset to accurately predict message classifications.
 
 ## Contact Information
