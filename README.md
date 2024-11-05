@@ -3,6 +3,9 @@
 ## Overview
 Machine learning has numerous practical applications that can enhance your projects or career. This repository contains materials and projects from the **Machine Learning with Python Certification** ***by Free Code Camp***, which you have successfully completed. In this course, you'll learn to build neural networks using the TensorFlow framework and explore advanced techniques like natural language processing and reinforcement learning.
 
+## Certification
+![Screenshot 2024-11-05 172113](https://github.com/user-attachments/assets/578ccf98-fbf5-4c87-9715-a251b774562e)
+
 ## Course Content
 
 ### TensorFlow
